@@ -42,3 +42,8 @@ body {
 
   min-height: 100vh;
 }
+
+::selection {
+  color: #fff;
+  background-color: var(--color-primary-light);
+}
